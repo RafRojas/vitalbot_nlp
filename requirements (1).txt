@@ -1,0 +1,8 @@
+streamlit
+langchain>=0.0.225
+openai
+chromadb>=0.3.29
+pysqlite3-binary>=0.5.0
+pypdf
+tiktoken
+docx2txt
